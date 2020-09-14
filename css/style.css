@@ -30,6 +30,14 @@ body{
 	text-align: center;
 }
 
+.headline4 {
+	font-family: 'Inter', sans-serif;
+	font-size: 10vw;
+    text-align: center;
+	color: black;
+    position: relative;
+    z-index: 1;
+}
 .text {
 	font-family: 'PT Mono', monospace;
 	color:white;
@@ -51,6 +59,10 @@ body{
     margin-bottom: 10em;
 }
 
+.interactive {
+    margin-top: 100px;
+}
+
 .playbutton {
 	color:white;
 	font-family: 'Inter', sans-serif;
@@ -58,13 +70,9 @@ body{
 	text-align: center;
 }
 
-#iframe {
-    margin-right: inherit;
-    margin-left: inherit;
-    margin-top: -20em;
-}
 
 #wrapper {
+    margin-top: -50em;
     margin-right: 10%;
     margin-left: 10%;
 }
