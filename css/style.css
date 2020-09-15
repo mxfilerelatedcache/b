@@ -59,6 +59,10 @@ body{
     margin-bottom: 10em;
 }
 
+.creds {
+    visibility: hidden;
+}
+
 .interactive {
     margin-top: 100px;
 }
