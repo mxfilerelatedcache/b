@@ -51,7 +51,7 @@ body{
 	font-size:4vw;
     position: relative;
     z-index: 1;
-    margin-bottom: 10vh;
+    margin-bottom: 5vh;
 }
 
 .text2 {
@@ -79,7 +79,6 @@ body{
 
 
 #wrapper {
-    margin-top: -50em;
     margin-right: 10%;
     margin-left: 10%;
 }
