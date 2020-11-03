@@ -65,6 +65,18 @@ body{
     margin-bottom: 15vw;
 
 }
+.headlinebutton {
+   margin-top: 13vh;
+    position: relative;
+	font-family: 'Inter', sans-serif;
+	font-size: 15vw;
+	color: #fe055f;
+	text-align: right;
+ line-height: 100%;
+    margin-bottom: 10vh;
+
+}
+
 .text {
 	font-family: 'IBM Plex Mono', monospace;
     text-align: left;
