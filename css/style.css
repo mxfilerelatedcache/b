@@ -3,7 +3,7 @@
 
 
 body{
-	background-color: #fe055f;
+	background-color: black;
 	font-family: 'Inter', sans-serif;
 	font-family: 'IBM Plex Mono', monospace;
 }
@@ -94,4 +94,13 @@ a:visited {
 .svg {
     position: relative;
     z-index: 0;
+}
+
+.soundscape {
+    text-align: center;
+    width: 100%;
+    height: 40em;
+    background-color: #fe055f;
+    margin-bottom: 10em;
+    
 }
