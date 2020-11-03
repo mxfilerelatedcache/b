@@ -104,11 +104,13 @@ body{
 }
 
 a {
-  color: skyblue;
+  color: white;
+    text-decoration-line: none;
 }
 
 a:visited {
-  color: skyblue;  
+  color: white;  
+    text-decoration-line: none;
 }
 
 .svg {
